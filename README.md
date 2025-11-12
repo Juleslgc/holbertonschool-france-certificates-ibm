@@ -13,6 +13,7 @@ Ce document liste les différents certificats que j'ai obtenus au cours de mon p
 | 2025  |   SQL and Relational Databases 101    | IBM SkillsBuild          | Introduction aux bases de données relationnelles et apprentissage des requêtes SQL fondamentales pour manipuler et interroger les données.         |
 | 2025  |    Project Management Fundamentals |     IBM SkillsBuild               |         Apprentissage des bases essentielles pour gérer un projet efficacement       |
 | 2025  |    Introduction to Cloud    |  IBM SkillsBuild  |  Initiation aux concepts essentiels du cloud et à ses principaux modèles de service |
+| 2025  |   Les fondamentaux de la cybersécurité  |  IBM SkillsBuild   | Introduction aux bases de la cybersécurité et aux principales menaces et protections des systèmes informatiques |
 ---
 
 ## Commentaires
